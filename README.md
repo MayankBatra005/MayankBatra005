@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-👋 Hi, I’m Mayank Batra
-👀 I’m interested in Back end web development.
-🌱 I’m currently learning Spring Boot, Microservices,AWS Cloud.
-💞️ I’m looking to collaborate with any organisation hiring software engineers/back-end/front-end developers.
-📫 You can reach me via mbatra3@asu.edu 
+- 👋 Hi, I’m Mayank Batra
+- 👀 I’m interested in Back end web development.
+- 🌱 I’m currently learning Spring Boot, Microservices,AWS Cloud.
+- 💞️ I’m looking to collaborate with any organisation hiring software engineers/back-end/front-end developers.
+- 📫 You can reach me via mbatra3@asu.edu 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-batra-/)](https://www.linkedin.com/in/mayank-batra-/)
